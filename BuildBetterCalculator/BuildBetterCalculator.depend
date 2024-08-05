@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1716474871 source:c:\users\debna\onedrive\documents\online courses - files\c programming tutorial for beginners\buildbettercalculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
